@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello World");
+    printf("hello from galaxy agent using mistral");
     return 0;
 }
